@@ -1,0 +1,217 @@
+2019-08-14 11:03:43,939 ERROR 5528 [-/::1/-/8ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:04:37,121 ERROR 5528 [-/::1/-/4ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:04:37,792 ERROR 5528 [-/::1/-/5ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:05:01,447 ERROR 5528 [-/::1/-/3ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:05:07,459 ERROR 5528 [-/::1/-/2ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:05:25,649 ERROR 5528 [-/::1/-/1ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:05:32,393 ERROR 5528 [-/::1/-/4ms GET /api] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:87:33)
+    at Object.ensureCsrfSecret (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\app\extend\context.js:98:13)
+    at csrf (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+    at session (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpDemo\node_modules\koa-compose\index.js:42:32)
+
+pid: 5528
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:53:34,555 WARN 4344 [-/::1/-/9ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 4344
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:53:47,786 WARN 10336 [-/::1/-/7ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 10336
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:54:08,686 WARN 10336 [-/::1/-/1ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 10336
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:54:10,260 WARN 23896 [-/::1/-/8ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 23896
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:54:21,257 WARN 8372 [-/::1/-/7ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 8372
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:54:44,306 WARN 8372 [-/::1/-/1ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: ""
+status: 403
+pid: 8372
+hostname: DESKTOP-0Q5T0JS
+
+2019-08-14 11:55:02,669 WARN 8372 [-/::1/-/1ms GET /api?user=zhangsan&age=18] nodejs.Error: jsonp request security validate failed
+    at securityAssert (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:47:19)
+    at jsonp (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-jsonp\app\extend\application.js:62:7)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\koa-compose\index.js:42:32)
+    at D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+referrer: "http://127.0.0.1:5500/jsonp%E8%B7%A8%E5%9F%9F%E5%A4%84%E7%90%86/jsonpClient/index.html"
+status: 403
+pid: 8372
+hostname: DESKTOP-0Q5T0JS
+
