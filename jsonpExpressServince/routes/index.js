@@ -23,11 +23,15 @@ router.get("/api", (req, res, next) => {
   } = opj;
   //如果这个回调函数存在证明是jsonp请求
   if (callback) {
+    // res.writeHead(200, {
+      //只能和end返回搭配使用  send不可以
+    //   'Content-Type': 'text/javascript'
+    // });
     let resault = JSON.stringify({
       code: 1,
       msg: "express框架传回去的参数"
     });
-    res.send(`${callback}(${resault})`)
+    res.end(`${callback}(${resault})`)
   }
 })
 

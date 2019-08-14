@@ -24,6 +24,7 @@
           const scriptDom = document.createElement("script");
           //设置其src属性
           scriptDom.setAttribute("src", url);
+          scriptDom.setAttribute("type","text/javascript")
           //在window系统上创建一个回调函数用来接受数据
           window[options.callbackName] = (res) => {
               //在接受到了参数动态删除这个script节点和window上面的方法
@@ -39,7 +40,7 @@
           //动态创建script标记，错误的监听
           scriptDom.addEventListener('error', () => {
               delete window['jsonpCallback'];
-              document.body.removeChild(script);
+              document.body.removeChild(scriptDom);
               reject('服务器加载失败！');
           });
           document.body.append(scriptDom)
