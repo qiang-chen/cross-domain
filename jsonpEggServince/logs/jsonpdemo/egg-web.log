@@ -335,3 +335,93 @@
 2019-08-14 16:02:30,878 INFO 13332 [egg:core] dump config after load, 6ms
 2019-08-14 16:02:30,894 INFO 13332 [egg-watcher:application] watcher start success
 2019-08-14 16:02:30,901 INFO 13332 [egg:core] dump config after ready, 6ms
+2019-08-14 19:42:29,987 INFO 13568 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:42:30,015 INFO 13568 [egg-multipart] stream mode enable
+2019-08-14 19:42:30,100 INFO 13568 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:42:30,103 INFO 13568 [egg-security] use csrf middleware
+2019-08-14 19:42:30,105 INFO 13568 [egg-security] use methodnoallow middleware
+2019-08-14 19:42:30,105 INFO 13568 [egg-security] use noopen middleware
+2019-08-14 19:42:30,106 INFO 13568 [egg-security] use nosniff middleware
+2019-08-14 19:42:30,107 INFO 13568 [egg-security] use xssProtection middleware
+2019-08-14 19:42:30,108 INFO 13568 [egg-security] use xframe middleware
+2019-08-14 19:42:30,108 INFO 13568 [egg-security] use dta middleware
+2019-08-14 19:42:30,108 INFO 13568 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:42:30,111 WARN 13568 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:42:30,120 INFO 13568 [egg:core] dump config after load, 6ms
+2019-08-14 19:42:30,134 INFO 13568 [egg-watcher:application] watcher start success
+2019-08-14 19:42:30,147 INFO 13568 [egg:core] dump config after ready, 10ms
+2019-08-14 19:52:20,861 INFO 2360 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:52:20,893 INFO 2360 [egg-multipart] stream mode enable
+2019-08-14 19:52:20,968 INFO 2360 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:52:20,972 INFO 2360 [egg-security] use csrf middleware
+2019-08-14 19:52:20,974 INFO 2360 [egg-security] use methodnoallow middleware
+2019-08-14 19:52:20,975 INFO 2360 [egg-security] use noopen middleware
+2019-08-14 19:52:20,976 INFO 2360 [egg-security] use nosniff middleware
+2019-08-14 19:52:20,976 INFO 2360 [egg-security] use xssProtection middleware
+2019-08-14 19:52:20,977 INFO 2360 [egg-security] use xframe middleware
+2019-08-14 19:52:20,978 INFO 2360 [egg-security] use dta middleware
+2019-08-14 19:52:20,978 INFO 2360 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:52:20,982 WARN 2360 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:52:20,997 INFO 2360 [egg:core] dump config after load, 7ms
+2019-08-14 19:52:21,014 INFO 2360 [egg-watcher:application] watcher start success
+2019-08-14 19:52:21,026 INFO 2360 [egg:core] dump config after ready, 10ms
+2019-08-14 19:53:59,501 INFO 2260 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:53:59,531 INFO 2260 [egg-multipart] stream mode enable
+2019-08-14 19:53:59,599 INFO 2260 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:53:59,601 INFO 2260 [egg-security] use csrf middleware
+2019-08-14 19:53:59,603 INFO 2260 [egg-security] use methodnoallow middleware
+2019-08-14 19:53:59,603 INFO 2260 [egg-security] use noopen middleware
+2019-08-14 19:53:59,604 INFO 2260 [egg-security] use nosniff middleware
+2019-08-14 19:53:59,605 INFO 2260 [egg-security] use xssProtection middleware
+2019-08-14 19:53:59,605 INFO 2260 [egg-security] use xframe middleware
+2019-08-14 19:53:59,606 INFO 2260 [egg-security] use dta middleware
+2019-08-14 19:53:59,606 INFO 2260 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:53:59,609 WARN 2260 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:53:59,622 INFO 2260 [egg:core] dump config after load, 7ms
+2019-08-14 19:53:59,638 INFO 2260 [egg-watcher:application] watcher start success
+2019-08-14 19:53:59,651 INFO 2260 [egg:core] dump config after ready, 10ms
+2019-08-14 19:54:15,430 INFO 20728 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:54:15,461 INFO 20728 [egg-multipart] stream mode enable
+2019-08-14 19:54:15,528 INFO 20728 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:54:15,531 INFO 20728 [egg-security] use csrf middleware
+2019-08-14 19:54:15,532 INFO 20728 [egg-security] use methodnoallow middleware
+2019-08-14 19:54:15,533 INFO 20728 [egg-security] use noopen middleware
+2019-08-14 19:54:15,534 INFO 20728 [egg-security] use nosniff middleware
+2019-08-14 19:54:15,534 INFO 20728 [egg-security] use xssProtection middleware
+2019-08-14 19:54:15,535 INFO 20728 [egg-security] use xframe middleware
+2019-08-14 19:54:15,535 INFO 20728 [egg-security] use dta middleware
+2019-08-14 19:54:15,535 INFO 20728 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:54:15,538 WARN 20728 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:54:15,552 INFO 20728 [egg:core] dump config after load, 9ms
+2019-08-14 19:54:15,567 INFO 20728 [egg-watcher:application] watcher start success
+2019-08-14 19:54:15,579 INFO 20728 [egg:core] dump config after ready, 9ms
+2019-08-14 19:54:41,914 INFO 13172 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:54:41,945 INFO 13172 [egg-multipart] stream mode enable
+2019-08-14 19:54:42,026 INFO 13172 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:54:42,030 INFO 13172 [egg-security] use csrf middleware
+2019-08-14 19:54:42,032 INFO 13172 [egg-security] use methodnoallow middleware
+2019-08-14 19:54:42,032 INFO 13172 [egg-security] use noopen middleware
+2019-08-14 19:54:42,034 INFO 13172 [egg-security] use nosniff middleware
+2019-08-14 19:54:42,035 INFO 13172 [egg-security] use xssProtection middleware
+2019-08-14 19:54:42,036 INFO 13172 [egg-security] use xframe middleware
+2019-08-14 19:54:42,038 INFO 13172 [egg-security] use dta middleware
+2019-08-14 19:54:42,038 INFO 13172 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:54:42,054 WARN 13172 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:54:42,080 INFO 13172 [egg:core] dump config after load, 16ms
+2019-08-14 19:54:42,097 INFO 13172 [egg-watcher:application] watcher start success
+2019-08-14 19:54:42,115 INFO 13172 [egg:core] dump config after ready, 14ms
+2019-08-14 19:59:01,003 INFO 13460 [egg:logger] init all loggers with options: {"dir":"D:\\high-node\\exercise\\egg处理各种跨域问题\\jsonp跨域处理\\cross-domain\\jsonpEggServince\\logs\\jsonpdemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jsonpdemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-14 19:59:01,034 INFO 13460 [egg-multipart] stream mode enable
+2019-08-14 19:59:01,103 INFO 13460 [egg-static] starting static serve /public/ -> D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\app\public
+2019-08-14 19:59:01,106 INFO 13460 [egg-security] use csrf middleware
+2019-08-14 19:59:01,107 INFO 13460 [egg-security] use methodnoallow middleware
+2019-08-14 19:59:01,108 INFO 13460 [egg-security] use noopen middleware
+2019-08-14 19:59:01,109 INFO 13460 [egg-security] use nosniff middleware
+2019-08-14 19:59:01,109 INFO 13460 [egg-security] use xssProtection middleware
+2019-08-14 19:59:01,110 INFO 13460 [egg-security] use xframe middleware
+2019-08-14 19:59:01,112 INFO 13460 [egg-security] use dta middleware
+2019-08-14 19:59:01,112 INFO 13460 [egg-security] compose 7 middlewares into one security middleware
+2019-08-14 19:59:01,116 WARN 13460 [egg-jsonp] SECURITY WARNING!! csrf check and referrer check are both closed!
+2019-08-14 19:59:01,129 INFO 13460 [egg:core] dump config after load, 9ms
+2019-08-14 19:59:01,145 INFO 13460 [egg-watcher:application] watcher start success
+2019-08-14 19:59:01,160 INFO 13460 [egg:core] dump config after ready, 12ms

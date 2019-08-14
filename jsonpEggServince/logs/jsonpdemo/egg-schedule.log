@@ -97,3 +97,24 @@
 2019-08-14 16:02:30,788 INFO 13332 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2019-08-14 16:02:30,788 INFO 13332 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-logrotator\app\schedule\clean_log.js
 2019-08-14 16:02:30,788 INFO 13332 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\jsonpServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:42:30,159 INFO 17108 [Timer] D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31649845ms at 2019-08-15 04:30:00.004
+2019-08-14 19:42:30,160 INFO 17108 [Timer] D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15449841ms at 2019-08-15 00:00:00.001
+2019-08-14 19:42:30,160 INFO 17108 [Timer] D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15450840ms at 2019-08-15 00:00:01.000
+2019-08-14 19:42:30,015 INFO 13568 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:42:30,015 INFO 13568 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:42:30,015 INFO 13568 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:52:20,892 INFO 2360 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:52:20,892 INFO 2360 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:52:20,892 INFO 2360 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:53:59,530 INFO 2260 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:53:59,530 INFO 2260 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:53:59,530 INFO 2260 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:54:15,461 INFO 20728 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:54:15,461 INFO 20728 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:54:15,461 INFO 20728 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:54:41,944 INFO 13172 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:54:41,944 INFO 13172 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:54:41,945 INFO 13172 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-14 19:59:01,033 INFO 13460 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-14 19:59:01,033 INFO 13460 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-14 19:59:01,034 INFO 13460 [egg-schedule]: register schedule D:\high-node\exercise\egg处理各种跨域问题\jsonp跨域处理\cross-domain\jsonpEggServince\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

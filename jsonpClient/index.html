@@ -10,7 +10,10 @@
 
 <body>
     <script src="./js/index.js"></script>
+    <script src="./js/ajax.js"></script>
     <script type="text/javascript">
+        //jsonp的两种请求
+
         // jsonp("http://localhost:7001/api", {
         //     user: "zhangsan",
         //     age: "18"
@@ -21,13 +24,38 @@
         // })
 
 
-        jsonp(" http://localhost:3000/api", {
+
+        // jsonp(" http://localhost:3000/api", {
+        //     user: "zhangsan",
+        //     age: "18"
+        // }).then(res => {
+        //     console.log(res);
+        // }).catch(err => {
+        //     console.log((err, "失败"))
+        // })
+
+
+        let url = `http://localhost:3000/api?${query({
             user: "zhangsan",
             age: "18"
+        }).slice(0,-1)}`;
+
+        ajax({
+            url,
         }).then(res => {
-            console.log(res);
-        }).catch(err => {
-            console.log((err, "失败"))
+            console.log(res)
+        })
+
+        //post请求测试
+        ajax({
+            type: "post",
+            url: "http://localhost:3000/apipost",
+            data: query({
+                user: "zhangsan",
+                age: "18"
+            }).slice(0,-1)
+        }).then(res=>{
+            console.log(res)
         })
     </script>
 
